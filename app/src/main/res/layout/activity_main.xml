@@ -107,21 +107,6 @@
                 android:textColor="@color/black"
                 android:textStyle="bold" />
 
-            <TextView
-
-                style="@style/form"
-                android:text="@string/cadatro"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-            <TextView
-
-                style="@style/form"
-                android:text="@string/lembrarSenha"
-                android:textColor="@color/black"
-                android:textStyle="bold" />
-
-
 
         </LinearLayout>
 

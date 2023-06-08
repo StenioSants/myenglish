@@ -2,4 +2,6 @@
     <string name="app_name">Fitness Tracker</string>
     <string name="user">Usuário</string>
     <string name="password">Insira sua senha</string>
+    <string name="insert_User">Insira seu usuário</string>
+    <string name="enter">Entrar</string>
 </resources>

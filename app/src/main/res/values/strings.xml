@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Fitness Tracker</string>
     <string name="user">Usuário</string>
-    <string name="password">Insira sua senha</string>
-    <string name="insert_User">Insira seu usuário</string>
+    <string name="password">Senha</string>
+    <string name="insert_User">Insira seu email</string>
     <string name="enter">Entrar</string>
+    <string name="cadatro">Cadastrar</string>
+    <string name="lembrarSenha">Lembrar senha</string>
+    <string name="insert_password">Insira sua senha</string>
 </resources>
